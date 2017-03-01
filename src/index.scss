@@ -1,0 +1,19 @@
+// import theme
+@import "theme.scss";
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, Helvetica, sans-serif;
+  min-height: 100%;
+}
+
+#root {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}

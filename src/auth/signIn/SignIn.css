@@ -1,0 +1,15 @@
+.Paper {
+  height: 300px;
+  position: relative;
+  width: 100%;
+  padding: 30px;
+  margin-top: 20px; }
+  .Paper .form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+    .Paper .form input:-webkit-autofill {
+      -webkit-box-shadow: 0 0 0 1000px white inset; }
+    .Paper .form .signInButton {
+      margin-top: 20px; }

@@ -1,0 +1,11 @@
+.container {
+  height: 100%;
+  position: relative;
+  background: #00BCD4; }
+  .container .Tabs {
+    position: absolute;
+    width: 30%;
+    top: 50%;
+    left: 50%;
+    margin: 0 -50% 0 0;
+    transform: translate(-50%, -50%); }

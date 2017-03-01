@@ -1,0 +1,26 @@
+// import theme
+@import "../../theme.scss";
+
+.Paper {
+  height: 300px;
+  position: relative;
+  width: 100%;
+  padding: 30px;
+  margin-top: 20px;
+
+
+  .form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    input:-webkit-autofill {
+      -webkit-box-shadow: 0 0 0 1000px white inset;
+    }
+
+    .signInButton {
+      margin-top: 20px;
+    }
+  }
+}

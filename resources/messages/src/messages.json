@@ -1,0 +1,38 @@
+[
+  {
+    "id": "signIn",
+    "defaultMessage": "Sign in"
+  },
+  {
+    "id": "signUp",
+    "defaultMessage": "Sign up"
+  },
+  {
+    "id": "emailAddress",
+    "defaultMessage": "Email address"
+  },
+  {
+    "id": "password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "confirmPassword",
+    "defaultMessage": "Confirm password"
+  },
+  {
+    "id": "forgotPassword",
+    "defaultMessage": "Forgot your password ?"
+  },
+  {
+    "id": "errorInvalidEmail",
+    "defaultMessage": "Invalid email address"
+  },
+  {
+    "id": "errorPasswordLength",
+    "defaultMessage": "Password must be 6 characters minimum"
+  },
+  {
+    "id": "errorPasswordsMismatch",
+    "defaultMessage": "The two passwords mismatch"
+  }
+]

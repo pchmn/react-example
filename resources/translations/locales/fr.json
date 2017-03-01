@@ -1,0 +1,11 @@
+{
+  "confirmPassword": "Confirmer le mot de passe",
+  "emailAddress": "Adresse email",
+  "errorInvalidEmail": "Invalid email address",
+  "errorPasswordLength": "Password must be 6 characters minimum",
+  "errorPasswordsMismatch": "The two passwords mismatch",
+  "forgotPassword": "Mot de passe oublié ?",
+  "password": "Mot de passe",
+  "signIn": "Connexion",
+  "signUp": "Inscription"
+}
