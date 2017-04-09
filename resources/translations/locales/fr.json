@@ -1,9 +1,9 @@
 {
   "confirmPassword": "Confirmer le mot de passe",
   "emailAddress": "Adresse email",
-  "errorInvalidEmail": "Invalid email address",
-  "errorPasswordLength": "Password must be 6 characters minimum",
-  "errorPasswordsMismatch": "The two passwords mismatch",
+  "errorInvalidEmail": "C'est abusé il est pas valide ton mail !",
+  "errorPasswordLength": "Fais gaffe mec, il faut 6 caractères au moins",
+  "errorPasswordsMismatch": "Oula c'est pas le bon mot de passe !",
   "forgotPassword": "Mot de passe oublié ?",
   "password": "Mot de passe",
   "signIn": "Connexion",
